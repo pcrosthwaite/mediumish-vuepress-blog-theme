@@ -1,4 +1,14 @@
 ---
 label: Members
 hide_body: true
-fields: []
+fields:
+- name: first_name
+  type: text
+  config:
+    required: false
+  label: First Name
+- name: last_name
+  type: text
+  config:
+    required: false
+  label: Last Name
