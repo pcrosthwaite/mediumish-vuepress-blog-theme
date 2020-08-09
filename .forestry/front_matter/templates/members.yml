@@ -12,3 +12,5 @@ fields:
   config:
     required: false
   label: Last Name
+pages:
+- docs/_members/peter.md
