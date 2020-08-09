@@ -9,8 +9,6 @@ sections:
   label: Members
   create: documents
   match: "*.md"
-  templates:
-  - post
 - type: directory
   path: docs/_posts
   label: Posts
